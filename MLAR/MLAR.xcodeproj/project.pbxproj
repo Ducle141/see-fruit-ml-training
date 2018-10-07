@@ -29,6 +29,7 @@
 		0A2D4DDC216A0E89003BC722 /* ImageClassifier4.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D4DDB216A0E89003BC722 /* ImageClassifier4.mlmodel */; };
 		0A2D4DDE216A1480003BC722 /* ImageClassifier6.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D4DDD216A1480003BC722 /* ImageClassifier6.mlmodel */; };
 		0A2D4DE0216A1702003BC722 /* Strawberry.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0A2D4DDF216A1702003BC722 /* Strawberry.jpg */; };
+		0A2D4DE2216A1C9C003BC722 /* ImageClassifier7.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 0A2D4DE1216A1C9C003BC722 /* ImageClassifier7.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		0A2D4DDB216A0E89003BC722 /* ImageClassifier4.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ImageClassifier4.mlmodel; sourceTree = "<group>"; };
 		0A2D4DDD216A1480003BC722 /* ImageClassifier6.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ImageClassifier6.mlmodel; sourceTree = "<group>"; };
 		0A2D4DDF216A1702003BC722 /* Strawberry.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Strawberry.jpg; sourceTree = "<group>"; };
+		0A2D4DE1216A1C9C003BC722 /* ImageClassifier7.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = ImageClassifier7.mlmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			isa = PBXGroup;
 			children = (
 				0A2D4DAA2169B637003BC722 /* AppDelegate.swift */,
+				0A2D4DE1216A1C9C003BC722 /* ImageClassifier7.mlmodel */,
 				0A2D4DDD216A1480003BC722 /* ImageClassifier6.mlmodel */,
 				0A2D4DD92169FD23003BC722 /* ImageClassifier.mlmodel */,
 				0A2D4DD72169EC65003BC722 /* FruitClassifierNew.mlmodel */,
@@ -211,6 +214,7 @@
 				0A2D4DDC216A0E89003BC722 /* ImageClassifier4.mlmodel in Sources */,
 				0A2D4DDE216A1480003BC722 /* ImageClassifier6.mlmodel in Sources */,
 				0A2D4DD82169EC65003BC722 /* FruitClassifierNew.mlmodel in Sources */,
+				0A2D4DE2216A1C9C003BC722 /* ImageClassifier7.mlmodel in Sources */,
 				0A2D4DC32169B952003BC722 /* VisionViewController.swift in Sources */,
 				0A2D4DAB2169B637003BC722 /* AppDelegate.swift in Sources */,
 			);

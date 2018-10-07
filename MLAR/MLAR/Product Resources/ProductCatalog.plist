@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apple</key>
+	<dict>
+        <key>label</key>
+            <string>Apple</string>
+        <key>description</key>
+            <string>
+                Apples contain only the natural fruit sugar, fructose. No added sugars!
+                The fiber in apples slows the release of carbohydrates into the bloodstream, providing the energy you need over time without blood sugar spikes.
+                
+                Apples are a top food source of soluble fiber, which promotes cardiovascular and digestive health, and protects against cancer.
+                The pectin in apples is a prebiotic, providing food for friendly gut bacteria.
+                
+                The phytochemicals in apples provide as much antioxidant health-protected capacity as a megadose of vitamin C.
+                Apples are a top food source of the mineral boron, for bone health.
+            </string>
+    </dict>
+    
+    <key>Avocado</key>
+    <dict>
+        <key>label</key>
+            <string>Avocado</string>
+        <key>description</key>
+            <string>
+                One-third of a medium avocado (50 g) has 80 calories and contributes nearly 20 vitamins, minerals and phytonutrients, making it a heart-healthy choice to help meet nutrient needs. Although phytonutrients are not essential, research suggests they may promote human health.
+                
+                The Dietary Guidelines for Americans and the American Heart Association recommend eating less nutrient-poor foods and limiting the amount of saturated fat, trans fat, added sugars and sodium consumed. The majority of fats in one’s diet should be heart-healthy monounsaturated or polyunsaturated; more than 75 percent of the fat in avocados is unsaturated, good fat.
+            </string>
+    </dict>
+
+    <key>Banana</key>
+    <dict>
+        <key>label</key>
+            <string>Banana</string>
+        <key>description</key>
+            <string>
+                Bananas are one of the world's most appealing fruits. Global banana exports reached about 18 million tons in 2015, according to the United Nations. About half of them went to the United States and the European market. In the United States, each person eats 11.4 lbs. of bananas per year, according to the U.S. Department of Agriculture, making it Americans' favorite fresh fruit.
+                
+                A wide variety of health benefits are associated with the curvy yellow fruit. Bananas are high in potassium and pectin, a form of fiber, said Laura Flores, a San Diego-based nutritionist. They can also be a good way to get magnesium and vitamins C and B6.
+            </string>
+    </dict>
+
+    <key>Orange</key>
+    <dict>
+        <key>label</key>
+            <string>Orange</string>
+        <key>description</key>
+            <string>
+                Sweet, juicy oranges make a delicious and healthy snack or addition to a meal. A whole orange contains only about 85 calories and has no fat, cholesterol or sodium. And, of course, "oranges are well known for their vitamin C content," said Laura Flores, a San Diego-based nutritionist.
+                
+                Oranges may boost your immune system and improve your skin; they also aid with heart health, cholesterol levels and other issues. Oranges may additionally help reduce the risk of respiratory diseases, certain cancers, rheumatoid arthritis, ulcers and kidney stones.
+            </string>
+    </dict>
+
+    <key>Strawberry</key>
+    <dict>
+        <key>label</key>
+            <string>Strawberry</string>
+        <key>description</key>
+            <string>
+                The strawberry, scientifically known as Fragaria ananassa, originated in Europe in the 18th century.
+                It is a hybrid of two wild strawberry species from North America and Chile.
+                
+                Strawberries are bright red in color, have a juicy texture, a characteristic aroma, and a sweet flavor.
+                They are an excellent source of vitamin C and manganese, and also contain decent amounts of folate (B9) and potassium.
+                
+                Strawberries are very rich in antioxidants and plant compounds, and may have benefits for heart health and blood sugar control (1, 2).
+                They are usually consumed raw and fresh, but can also be used in a variety of jams, jellies, desserts and for food flavoring.
+            </string>
+    </dict>
+
+    <key>Tomato</key>
+    <dict>
+        <key>label</key>
+            <string>Tomato</string>
+        <key>description</key>
+            <string>
+                Known scientifically as Solanum lycopersicum, the tomato is the berry of a plant from the nightshade family, native to South America.
+                Despite technically being a fruit, the tomato is generally categorized as a vegetable.
+                
+                Tomatoes are the major dietary source of the antioxidant lycopene, which has been linked to many health benefits, including reduced risk of heart disease and cancer.
+                They are also a great source of vitamin C, potassium, folate and vitamin K.
+                
+                They are usually red when mature, but can come in a variety of colors, including yellow, orange, green and purple.
+                Then there are many subspecies of tomatoes, with different shapes and flavor.
+            </string>
+    </dict>
+
+</dict>
+</plist>

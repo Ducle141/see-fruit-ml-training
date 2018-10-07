@@ -36,8 +36,8 @@ class ProductViewController: UIViewController {
 //            print(NSDictionary(contentsOfFile: path))
             self.productCatalog = NSDictionary(contentsOfFile: path) as? [String: [String: Any]]
         }
-        print("HEre is ")
-        print(productCatalog)
+//        print("HEre is ")
+//        print(productCatalog)
     }
     
     override func viewDidLoad() {
@@ -45,7 +45,7 @@ class ProductViewController: UIViewController {
         // Give the view rounded corners.
         productView.layer.cornerRadius = 10
         productView.layer.masksToBounds = true
-        print(productCatalog)
+//        print(productCatalog)
         let itemsCatalog = self.productCatalog.keys.sorted()
         if productID != nil {
             if !itemsCatalog.contains(productID) {

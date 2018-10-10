@@ -7,7 +7,7 @@ This project is a part of our Aloha Fruit iOS app which takes care of the fruit 
 ## How this works
 First, we used [Turi-Create](https://github.com/apple/turicreate) as a Machine Learning tool to train customized [CoreML](https://developer.apple.com/documentation/coreml) model. We collected, analyzed and cleaning fruit images for machine learning part using Xcode, Python and Turin Create. 
 
-Since the app needs to recognize the fruit with iPhone camera, we trained our model based on two different data set: images and AR scanning object. Using AT scanning object increases our accuracy significantly while we are using camera to detect the fruit.
+Since the app needs to recognize the fruit with iPhone camera, we trained our model based on two different data set: images and AR scanning object. Using AR scanning object increases our accuracy significantly while we are using camera to detect the fruit.
 
 We also need to determine the number of training iterations and size of our data set so that the accuracy is maximized. 
 

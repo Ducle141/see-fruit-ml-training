@@ -1,5 +1,5 @@
 
-# See Fruit
+# See Fruit Machine Learning Training
 See Fruit is an iOS app that recognizes fruit using customized pre-trained CoreML model. We are managed to obtain the accuracy of nearly 90% with fruits that are in the training set.  The fruit info will be popped up for user references.
 
 This project is a part of our Aloha Fruit iOS app which takes care of the fruit recognition before popping up the AR info and 3D model.
